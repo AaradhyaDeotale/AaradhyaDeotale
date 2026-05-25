@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 MSc Data Science student at TU Hamburg (TUHH) | IEEE Published Researcher
 
-I work at the intersection of machine learning and real-world systems — 
+I work at the intersection of machine learning and real-world systems,
 from medical imaging to warehouse logistics optimization.
 
-🔍 Currently seeking HiWi / Werkstudent positions in Data Science in Hamburg.
+
 
 ---
 
