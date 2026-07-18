@@ -1,38 +1,28 @@
 <!--
 **AaradhyaDeotale/AaradhyaDeotale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 # Hi there 👋
 
 # 💫 About Me
 MSc Data Science student at TU Hamburg (TUHH) | IEEE-published (ICITEICS 2024)
 
-I work at the intersection of machine learning and real-world systems — from medical imaging to warehouse logistics optimization.
+I work at the intersection of machine learning and real-world systems - from medical imaging to warehouse logistics optimization.
 
-🔭 **Currently:** HiWi Student Assistant at the Institute of Maritime Logistics, working on the DYNAPORT project
+🔭 **Currently:** HiWi Student Assistant at the Institute of Maritime Logistics, working on the DYNAPORT project [[About the Project]] (https://dynaport.eu/)
 
 ---
 
 ## 📄 Publication
 **EfficientNetB1 Model for Lung Cancer Detection using Biopsy Images**  
-J. John, A. Deotale, F. Fernandez, D. Jadhav — IEEE ICITEICS 2024 · [[Paper]](https://ieeexplore.ieee.org/document/10624877)  
+J. John, A. Deotale, F. Fernandez, D. Jadhav - IEEE ICITEICS 2024 · [[Paper]](https://ieeexplore.ieee.org/document/10624877)  
 CNN-based automated lung cancer detection in biopsy images with high diagnostic accuracy.
 
 ---
 
 ## 🔬 Key Projects
 
-**Reddit Sentiment Analysis — Big Data Pipeline** · [[Live Demo]](http://18.199.221.182:8000/)  
+**Reddit Sentiment Analysis - Big Data Pipeline** · [[Live Demo]](http://18.199.221.182:8000/)  
 Real-time pipeline replaying a historical Reddit comment dump through **Kafka**, cleaned and tokenized with **Apache Flink**, scored by a self-trained sentiment model, and visualized as live per-keyword sentiment trends in a web dashboard.
 
 **Warehouse Throughput Optimization @ Rhenus (TU Hamburg)**  
