@@ -9,7 +9,7 @@ MSc Data Science student at TU Hamburg (TUHH) | IEEE-published (ICITEICS 2024)
 
 I work at the intersection of machine learning and real-world systems - from medical imaging to warehouse logistics optimization.
 
-🔭 **Currently:** HiWi Student Assistant at the Institute of Maritime Logistics, working on the DYNAPORT project — [About the Project](https://dynaport.eu/)
+🔭 **Currently:** HiWi Student Assistant at the Institute of Maritime Logistics, working on the DYNAPORT project- [About the Project](https://dynaport.eu/)
 
 ---
 
